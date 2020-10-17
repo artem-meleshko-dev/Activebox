@@ -1,0 +1,100 @@
+// @import '../variables.scss';
+
+// .slide {
+//    background: #53354a;
+//    &__body {
+//       height: 500px;
+//       overflow: hidden;
+//    }
+
+//    &__item {
+//       display: flex;
+//       min-width: 0;
+
+//       overflow: hidden;
+//    }
+
+//    &__image {
+//       width: 50%;
+//       height: 500px;
+
+//       position: relative;
+//    }
+
+//    &__photo {
+//       position: absolute;
+//       top: 50%;
+//       right: 0;
+//       z-index: 1;
+//       transform: translateY(-50.1%);
+//    }
+
+//    &__content {
+//       width: 50%;
+//       padding-left: 80px;
+//       padding-top: 110px;
+
+      
+//    }
+
+//    &__text {
+//       font-family: 'Cardo', serif;
+//       font-size: 36px;
+//       color: #fff;
+//       line-height: 42px;
+
+//       max-width: 520px;
+      
+//    }
+
+//    &__name {
+//       font-size: 13px;
+//       font-weight: bold;
+//       color: #fff;
+//       text-transform: uppercase;
+
+//       margin-top: 30px;
+//    }
+// }
+
+// .slick-list {
+//    overflow: hidden;
+// }
+
+// .slick-track {
+//    display: flex;
+// }
+
+// .slick-dots {
+//    width: 50%;
+//    position: absolute;
+//    bottom: 0;
+//    right: 0;
+
+//    z-index: 1000;
+
+//    list-style: none;
+
+//    display: flex;
+//    // justify-content: center;
+
+//    z-index: 2;
+// }
+
+// .slick-dots li {
+
+// }
+
+// .slick-dots button {
+//    width: 20px;
+//    height: 20px;
+//    background: #755d6e;
+//    padding: 0;
+//    font-size: 0;
+
+//    border-radius: 50%;
+// }
+
+// .slick-dots .slick-active button {
+//    background: #fff;
+// }
